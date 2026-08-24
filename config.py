@@ -53,13 +53,13 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # ======================================================
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/yjee4247-code/kirtipublic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/GOD-FATHER-papa/TABAHI_MUSIC")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", "YOUR_GIT_TOKEN")
 
 # ======================================================
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Kirti_update")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/kirti_supprot_group")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Bindas_life0")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Upsc_All_Exams_Quiz_Group_Bpsc_G")
 
 # ======================================================
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
