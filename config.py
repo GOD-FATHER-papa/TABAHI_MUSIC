@@ -33,7 +33,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int(getenv("LOGGER_ID", -1003670001038))
 
 # Vars For API End Pont.
-YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## xBit Music Endpoint.
+YTPROXY_URL = getenv("YTPROXY_URL", 'https://api01.shrutibots.site') ## xBit Music Endpoint.
 YT_API_KEY = getenv("YT_API_KEY" , 'ShrutiBotsTUOhRD5u1C8vTXPfFZys') ## Your API key like: xbit_10000000xx0233 Get from  https://t.me/tgmusic_apibot
 
 # ======================================================
