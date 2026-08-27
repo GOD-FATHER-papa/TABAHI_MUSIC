@@ -37,9 +37,9 @@ class Helper(object):
 ● ᴋᴇᴇᴘ ᴄʜᴧᴛ ᴄʟєᴧη ᴧηᴅ ʙᴜɢ-ғʀєє.
 ● ᴧηʏ ᴘʀσʙʟєϻ ? ᴊᴜsᴛ ᴄσηᴛᴧᴄᴛ ᴜs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴋɪʀᴛɪ ʙᴏᴛѕ](https://t.me/Bindas_life0)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴋɪʀᴛɪ-ᴜᴘᴅᴧᴛєs](https://t.me/Bindas_life0)
-❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-ᴋɪʀᴛɪ](https://github.com)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴛᴀʙᴀʜɪ ʙᴏᴛѕ](https://t.me/Tabahi_update_bot)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ʀᴏɴᴇʏ-ᴜᴘᴅᴧᴛєs](https://t.me/Bindas_life0)
+❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-ᴛᴀʙᴀʜɪ](https://github.com)
 ─────────────────────────**
 '''
 
@@ -55,7 +55,7 @@ class Helper(object):
 
 ❍ /nightmode : ɪɴʟɪɴᴇ ᴄᴏɴᴛʀᴏʟs ʙᴜᴛᴛᴏɴ ғᴏʀ ɴɪɢʜᴛ ᴍᴏᴅᴇ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ᴋɪʀᴛɪ ʙᴏᴛѕ](https://t.me/Bindas_life0)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ʀᴏɴᴇʏ ʙᴏᴛѕ](https://t.me/Tabahi_update_bot)**
 '''
 
 
